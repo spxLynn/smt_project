@@ -1,0 +1,30 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "About this site",
+      "description": "Some additional details about the website",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2021-10-13T15:15:00+08:00"
+    },
+    {
+      "path": "index.html",
+      "title": "SMT201 GIS G5 project website",
+      "description": "Welcome to the website. I hope you enjoy it!\n",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2021-10-13T15:17:57+08:00"
+    },
+    {
+      "path": "over.html",
+      "title": "Overview",
+      "description": "A new article created using the Distill format.\n",
+      "author": [],
+      "date": "`r Sys.Date()`",
+      "contents": "\r\nDistill is a publication format for scientific and technical writing, native to the web.\r\nLearn more about using Distill for R Markdown at https://rstudio.github.io/distill.\r\n\r\n\r\n\r\n",
+      "last_modified": "2021-10-13T15:19:09+08:00"
+    }
+  ],
+  "collections": []
+}
