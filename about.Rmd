@@ -1,5 +1,5 @@
 ---
-title: "About this site"
+title: "About our project"
 description: |
   About our Team
 ---
