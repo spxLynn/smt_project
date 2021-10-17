@@ -1,7 +1,7 @@
 ---
 title: "About our project"
 description: |
-  About our Team
+  Hello
 ---
 
 ```{r setup, include=FALSE}
