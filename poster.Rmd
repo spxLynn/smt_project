@@ -1,5 +1,5 @@
 ---
-title: New Capital area in East Kalimantan
+title: New Capital in East Kalimantan
 poster_height: 33.11
 poster_width: 23.39
 author:
@@ -81,3 +81,4 @@ knitr::write_bib(c('knitr','rmarkdown','posterdown','pagedown'), 'packages.bib')
 ```
 
 # References
+
