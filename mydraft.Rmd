@@ -1,5 +1,7 @@
 ---
-title: Generate Reproducible & Live HTML and PDF Conference Posters Using RMarkdown
+title: New Capital area in East Kalimantan
+poster_height: 33.11
+poster_width: 23.39
 author:
   - name: Brent Thorne
     affil: 1
