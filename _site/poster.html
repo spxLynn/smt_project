@@ -713,7 +713,7 @@ padding: 0;
 }
 body {
 margin: 0;
-font-size: 45px;
+font-size: 100;
 width: 23.39;
 height: 33.11;
 padding: 0;
@@ -729,14 +729,14 @@ padding: 0cm;
 width: 23.39;
 height: calc(33.11 * 0.15);
 overflow: hidden;
-background-color: #0b4545;
+background-color: #3498DB;
 border: 0 solid #0b4545;
 }
 .logo_left {
 float: left;
 width: 10%;
 height: 100%;
-background-color: #0b4545;
+background-color: #3498DB;
 display: flex;
 align-items: center;
 justify-content: center;
@@ -745,7 +745,7 @@ justify-content: center;
 float: right;
 width: 10%;
 height: 100%;
-background-color: #0b4545;
+background-color: #3498DB;
 display: flex;
 align-items: center;
 justify-content: center;
@@ -798,15 +798,15 @@ column-rule-width: 1mm;
 -webkit-column-rule-style: dashed;
 -moz-column-rule-style: dashed;
 column-rule-style: dashed;
--webkit-column-rule-color: #0b4545;
--moz-column-rule-color: #0b4545;
-column-rule-color: #0b4545;
+-webkit-column-rule-color: #3498DB;
+-moz-column-rule-color: #3498DB;
+column-rule-color: #3498DB;
 column-gap: 1em;
 padding-left: 0.5em;
 padding-right: 0.5em;
 height: 100%;
 color: #000000
-background-color: #ffffff;
+background-color: #D6EAF8;
 }
 .poster_title h1 {
 font-size: 75pt;
@@ -819,7 +819,7 @@ width: calc(23.39 + 0 + 0);
 height: calc(33.11 * 0.83);
 padding-top: calc(33.11 * 0.005);
 padding-bottom: calc(33.11 * 0.01);
-background-color: #ffffff;
+background-color: #D6EAF8;
 }
 .poster_title h3 {
 color: #ffffff;
@@ -850,8 +850,8 @@ margin-bottom: 0;
 text-align: center;
 color: #FFFFFF;
 font-size: 65pt;
-border: 2mm solid #0b4545;
-background-color: #0b4545;
+border: 2mm solid #3498DB;
+background-color: #3498DB;
 border-radius: 4mm 0mm;
 margin-top: 2mm;
 margin-bottom: 2mm;
@@ -904,7 +904,7 @@ code {
 font-size: 1em;
 font-family: monospace;
 background-color: #00808024;
-color: #0b4545;
+color: #3498DB;
 padding: 1.2mm;
 border-radius: 2mm;
 }
@@ -984,8 +984,8 @@ font-size: 20pt;
 <!-- Poster Title -->
 <div class= "poster_title">
 <h1 id="title">New Capital in East Kalimantan</h1>
-<h3 id="author">Brent Thorne<sup>1, <a class="orcid" href="https://orcid.org/0000-0002-1099-3857"><img src="https://raw.githubusercontent.com/brentthorne/posterdown/master/images/orcid.jpg"></a></sup>, Another G. Author<sup>2</sup></h3><br>
-<h5 id="affiliation"><sup>1</sup> Department of Earth Science, Brock University<br> <sup>2</sup> Department of Graphics and Layouts, University of Posters; Canada</h5>
+
+
 </div>
 <!-- Right Logo  -->
 <div class="logo_right">
@@ -995,11 +995,11 @@ font-size: 20pt;
 
 <div class='poster_body_wrap'>
 <div class='poster_body'>
-<div id="introduction" class="section level1">
-<h1>Introduction</h1>
+<div id="introduction" class="section level3">
+<h3>Introduction</h3>
 <p>Welcome to <code>posterdown</code> ! This is my attempt to provide a semi-smooth workflow for those who wish to take their R Markdown skills to the conference world. Most features from R Markdown are available in this package such as Markdown section notation, figure captioning, and even citations like this one <span class="citation">(Allaire et al. 2021)</span>. The rest of this example poster will show how you can insert typical conference poster features into your own document.</p>
-<div id="objectives" class="section level2">
-<h2>Objectives</h2>
+<div id="objectives" class="section level4">
+<h4>Objectives</h4>
 <ol style="list-style-type: decimal">
 <li>Easy to use reproducible poster design.</li>
 <li>Integration with R Markdown.</li>
@@ -1007,12 +1007,12 @@ font-size: 20pt;
 </ol>
 </div>
 </div>
-<div id="methods" class="section level1">
-<h1>Methods</h1>
+<div id="methods" class="section level3">
+<h3>Methods</h3>
 <p>This package uses the same workflow approach as the R Markdown you know and love. Basically it goes from RMarkdown &gt; Knitr &gt; Markdown &gt; Pandoc &gt; HTML/CSS &gt; PDF. You can even use the bibliography the same way <span class="citation">(Thorne 2019)</span>.</p>
 </div>
-<div id="results" class="section level1">
-<h1>Results</h1>
+<div id="results" class="section level3">
+<h3>Results</h3>
 <p>Usually you want to have a nice table displaying some important results that you have calculated. In <code>posterdown</code> this is as easy as using the <code>kable</code> table formatting you are probably use to as per typical R Markdown formatting.</p>
 <p>You can reference tables like so: Table <a href="#tab:mytable">1</a>. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam placerat augue at velit tincidunt semper. Donec elementum porta posuere. Nullam interdum, odio at tincidunt feugiat, turpis nisi blandit eros, eu posuere risus felis non quam. Nam eget lorem odio. Duis et aliquet orci. Phasellus nec viverra est.</p>
 <table>
@@ -1200,16 +1200,16 @@ Figure 2: Amazing, right?!
 </p>
 </div>
 </div>
-<div id="next-steps" class="section level1">
-<h1>Next Steps</h1>
+<div id="next-steps" class="section level3">
+<h3>Next Steps</h3>
 <p>Aliquam sed faucibus risus, quis efficitur erat. Vestibulum semper mauris quis tempus eleifend. Aliquam sagittis dictum ipsum, quis viverra ligula eleifend ut. Curabitur sagittis vitae arcu eget faucibus. In non elementum felis. Duis et aliquam nunc. Nunc pulvinar sapien nunc, vel pretium nisi efficitur in. Fusce fringilla maximus leo et maximus. Fusce at ligula laoreet, iaculis mi at, auctor odio. Praesent sed elementum justo. Aenean consectetur risus rhoncus tincidunt efficitur. Praesent dictum mauris at diam maximus maximus <span class="citation">(Thorne 2019)</span>.</p>
 </div>
-<div id="conclusion" class="section level1">
-<h1>Conclusion</h1>
+<div id="conclusion" class="section level3">
+<h3>Conclusion</h3>
 <p>Try <code>posterdown</code> out! Hopefully you like it!</p>
 </div>
-<div id="references" class="section level1 unnumbered">
-<h1>References</h1>
+<div id="references" class="section level3 unnumbered">
+<h3>References</h3>
 <div id="refs" class="references csl-bib-body hanging-indent">
 <div id="ref-R-rmarkdown" class="csl-entry">
 Allaire, JJ, Yihui Xie, Jonathan McPherson, Javier Luraschi, Kevin Ushey, Aron Atkins, Hadley Wickham, Joe Cheng, Winston Chang, and Richard Iannone. 2021. <em>Rmarkdown: Dynamic Documents for r</em>. <a href="https://CRAN.R-project.org/package=rmarkdown">https://CRAN.R-project.org/package=rmarkdown</a>.
