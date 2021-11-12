@@ -31,3 +31,27 @@ To look into the gender distribution in Kalimantan Timur, we compare the numbers
 
 
 # 2. Economic and Business
+## 2.1 Economic and Business In East Kalimantan
+![](Image/Commerce.png)
+The map above shows the businesses in our study area, which include commercial buildings, industry buildings, mines and processed oil industry. Most of the commerce are clustered in the central area, which is in Samarinda. This is followed by the area near the coast, which is in Balikpapan. There are also a few scattered around our study area. With more commercial buildings clustered in an area, we can infer that these areas are more developed than the rest.
+
+From the map, we can see that most of the mines are located in Samarinda, most of them away from the cluster of commerce areas. We can consider using these areas as part of our new capital as the area has already been cleared.
+
+Industries are mostly located at Samarinda and Balikpapan, with an exception, which is located in Tenggarong Seberang. There are 5 oil processing industries in our study area, with three in Balikpapan, and two in Samarinda.
+
+## 2.2 Agricultural Activities in East Kalimantan
+![](Image/Agriculture.png)
+The map above shows the areas of plantation in our study area. No doubt that some agricultural activities are for personal consumption, there are also areas that are for commercial purposes. Larger plantation areas have a higher possibility for having commercial purposes, and we can see that these areas are mostly located at the Kutai Kartanegara regency, which is in the North of our study area. Urban areas would have lesser plantations, hence, we can consider moving to areas with smaller plantations.
+
+# 3. Transport and Communication
+## 3.1 Transport in East Kalimantan
+![](Image/Transport.png)
+The map above shows the distribution of transportation, which includes airports, bus terminals and docks. There are a total of two airports, one located on the Northern part of our study area, Samarinda, and the other located near the coast on the Southern part at Balikpapan. Most of the bus terminals and docks are also located near these two airports. Airports and seaports help to provide ease to tourists who are coming into the new capital area. Bus terminals also help to allow greater accessibility for travelling. Hence we can consider having our new capital in areas near these transportation.
+
+## 3.2 Roads in East Kalimantan
+![](Image/Road.png)
+The map above shows the roads in our study area. Most of the areas are well-connected, except for a few spots in Paser Penajam. We would consider having our new capital in areas that are more accessible, which means places where they are well-connected.
+
+## 3.3 Signal Towers in East Kalimantan
+![](Image/Communication.png)
+The map above shows the signal tower located in our study area. The biggest cluster is located at Samarinda. There are also multiple signal towers dispersed throughout the study area, except for the area that we are interested in this study in Penjam Pasertara. The greater the cluster of signal towers, we can tell that the place is more urban.
