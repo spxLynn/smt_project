@@ -28,3 +28,6 @@ This distribution map includes people who are currently studying in Junior High,
 ## 1.5 Difference in distribution of males and females
 ![](Image/DiffInMaleFemale.jpg)
 To look into the gender distribution in Kalimantan Timur, we compare the numbers by (number of males - number of females). Majority of the areas have more males than females at most of 1248 while there are only a handful having more females than males by at most 96. This might indicate that males are preferred for labour especially in infrastructure and heavy industries. 
+
+
+# 2. Economic and Business
