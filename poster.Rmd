@@ -1,17 +1,17 @@
 ---
-title: New Capital in East Kalimantan
+title:               New Capital in East Kalimantan
+  
 poster_height: 33.11
 poster_width: 23.39
-primary_colour: "#3498DB"
+
+primary_colour: "#3498DB" 
 column_numbers: 3
 column_margins: 5
-logoright_name: https&#58;//raw.githubusercontent.com/brentthorne/posterdown/master/images/betterhexlogo.png
-logoleft_name: https&#58;//raw.githubusercontent.com/brentthorne/posterdown/master/images/betterhexlogo.png
 output: 
   posterdown::posterdown_html:
     self_contained: false
 bibliography: packages.bib
-
+  
 main_textsize: 120
 
 body_bgcol: "#D6EAF8"
