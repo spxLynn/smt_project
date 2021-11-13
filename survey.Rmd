@@ -1,6 +1,9 @@
 ---
 title: "Report of Survey"
-output: distill::distill_article
+output: 
+  distill::distill_article:
+    toc: true
+    toc_depth: 2
 ---
 
 ```{r setup, include=FALSE}
@@ -8,7 +11,6 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 
 # 1. Population and Demographic
-
 ## 1.1 Distribution of the number of people aged 15 to 55
 ![](Image/age15to55.jpg)
 Since the working age population in Indonesia is from 15 to 64 years old and the 2021 retirement age is 57, the distribution with people aged from **15 to 55 years old** are to be investigated. As observed from the map, it can be seen that most of these people are located in the **central parts** of Kota Samarinda and Kota Balikpapan. This might be due to having intensive labour and industries in these areas. Also, it is evident that more people prefer to stay closer to coastlines.
@@ -55,3 +57,37 @@ The map above shows the roads in our study area. Most of the areas are well-conn
 ## 3.3 Signal Towers in East Kalimantan
 ![](Image/Communication.png)
 The map above shows the signal tower located in our study area. The biggest cluster is located at Samarinda. There are also multiple signal towers dispersed throughout the study area, except for the area that we are interested in this study in Penjam Pasertara. The greater the cluster of signal towers, we can tell that the place is more urban.
+
+# 4. Infrastructure
+Educational Institutions, health facilities, water and irrigation and electrical facilities will be considered to analyse how advanced a region is.
+
+## 4.1 Educational Institutions in East Kalimantan
+![](Image/Edu_Institute.png)
+A region’s development is primarily based on its people and its resources. A region with a higher literacy rate will lead to a lower unemployment rate and greater GDP growth. Education is the backbone of any region as it plays a crucial role in technological developments and imparts various skills and values. The map above shows the distribution of educational institutions in East Kalimantan. As seen above, most of the institutions are concentrated in two regions, namely Balikpapan and Samarinda. These are the two most populated regions.
+
+## 4.2 Health Services in East Kalimantan
+![](Image/Health_Service.png)
+The healthier the citizens of a region, the more effective the workforce. It can be inferred from the map above that there are inadequate medical facilities and health facilities in East kalimantan. There are few points in relative to the size. Most of the facilities seem to be situated in Balikpapan and Samarinda. It is likely because they are more populous and developed.
+
+## 4.3 Water and Irrigation in East Kalimantan
+![](Image/Water and Irrigation.jpg)
+Accessibility water is critical to health, a healthy environment, poverty reduction, a sustainable economy, and peace and security. The map above shows the distribution of drinking water and irrigation in East Kalimantan. There are few irrigation water networks in this area and they are situated mainly in Samarinda and Kutai Kartanegara.
+
+## 4.4 Electrical Facilities in East Kalimantan
+![](Image/Electrical.png)
+The map above shows the distribution of electrical facilities in East Kalimantan. From the map, we can see the distributions are very uneven. The facilities are mainly located in Kota Samarinda and Kutai Kartanegara. This is likely because Samarinda is the capital city East Kalimantan. 
+
+
+# 5. Environment and Hazard
+## 5.1 Shorelines in East Kalimantan
+![](Image/Shorelines.png)
+The map above shows the coastlines and shorelines in East Kalimantan. Areas in close proximity to this should be avoided, as they are more prone to hurricanes, coastal storms, tsunamis, and landslides, as well as longer-term risks of coastal erosion and sea level rise.
+
+## 5.2 Distribution of forest and agriculture
+![](Image/Forest.png)
+The map above shows the forest and agriculture distribution in East Kalimantan. Layers used for this map include:  high grasses, bushes, wet forest, non agri shrubs, plantation, paddy fields, irrigation. As seen above, Balikpapan and the South of Kutai Kartanegara is heavily forested.
+
+## 5.3 Fire Hotspots in Kalimantan
+![](Image/Fire.png)
+There are several fire hotspots in East Kalimantan. Most of the hotspots coincide with forests. The burning usually peaks during Indonesia's dry season. The problem has accelerated in recent years as more land has been cleared for expanding plantations for the palm oil trade.
+
