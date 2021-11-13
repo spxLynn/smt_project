@@ -6,7 +6,7 @@ output_dir: "_site"
 navbar:
   left:
     - text: 'Overview'
-      href: poster.html
+      href: over.html
     - text: 'Poster'
       href: poster.html
     - text: 'Data Preparation'
