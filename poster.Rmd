@@ -73,9 +73,7 @@ The rank suitability method also suggests the same.
 
 * Rasterize using 30x30 to ensure more accurate results
 
-```{r, include=FALSE}
-knitr::write_bib(c('knitr','rmarkdown','posterdown','pagedown'), 'packages.bib')
-```
+#### Done by:  Fathima, Harith Oh, Lynn Su
 
 ### References
 
