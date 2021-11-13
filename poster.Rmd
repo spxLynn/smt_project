@@ -6,7 +6,6 @@ title: |
   |
   |
   New Capital in East Kalimantan
-title_textsize: "80pt"
   
 poster_height: 33.11
 poster_width: 23.39
@@ -64,7 +63,7 @@ To analyse the geospatial characteristics of Kota Balikpapan, Kota Samarinda, se
 7. From the resulting output, we selected an area with composite factor score>0.3
 8. We cross referenced to the results we get from the ranking, and it gave us the same result.
 ![](Image/Site_Selected.jpg){ width=100% }
-AHP analysis suggest that the chosen area should be near the estern region of East Kalimantan. 
+AHP analysis suggest that the chosen area should be near the western region of East Kalimantan. 
 ![](Image/Ranking_area.png){ width=100% }
 The rank suitability method also suggests the same.
 
@@ -76,4 +75,4 @@ The rank suitability method also suggests the same.
 #### Done by:  Fathima, Harith Oh, Lynn Su
 
 ### References
-
+https://github.com/brentthorne/posterdown/wiki

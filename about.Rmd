@@ -1,10 +1,37 @@
 ---
 title: "About our project"
-description: |
-  About our team
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
+## Team Members
+* HARITH OH YEE CHOON
+* FATHIMA S A KABEER
+* SU PEI XUAN LYNN
+
+## About Indonesia
+Indonesia is the 10th largest economy in the world, in terms of purchasing power. It has also greatly reduced its poverty rate by more than half since 1999.
+
+However, its current capital city, Jakarta, is facing high pollution and traffic congestion, as well as frequent flooding. This city is also sinking fast, hence Indonesia made plans to move their new capital to East Kalimantan.
+
+## About East Kalimantan
+East Kalimantan is located at the eastern part of Borneo, where its capital city is Samarinda. Its temperature ranges from 21.6 degree Celsius to 35.6 degree Celcius, with high average humidity of 83 to 87 percent. 
+
+We will be looking at these regions for our project:
+
+* Balikpapan City
+
+* Samarinda City
+
+* Kutai Kartanegara : Anggana, Loa Janan, Loa Kulu, Marang Kayu, Muara Jawa, Samboja, Sanga Sanga, Sebulu Tenaggarong, Tenggarong Seberang and Muara Badak.
+
+* North Penajam Paser (Penajam Paser Utara) Regency: Babulu, Penajam, Sepaku and Waru
+
+## References
+https://www.worldbank.org/en/country/indonesia/overview#1
+
+https://www.bloomberg.com/news/articles/2021-11-01/indonesia-sets-2024-deadline-to-move-its-new-capital-to-borneo
+
+https://en.wikipedia.org/wiki/East_Kalimantan
