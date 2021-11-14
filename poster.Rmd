@@ -71,6 +71,8 @@ To analyse the geospatial characteristics of Kota Balikpapan, Kota Samarinda, se
 
 7. From the resulting output, we selected an area with composite factor score>0.3
 
+**Comparing both methods**
+
 8. We cross referenced to the results we get from the ranking, and it gave us the same result.
 ![](Image/Site_Selected.jpg){ width=100% }
 AHP analysis suggest that the chosen area should be near the western region of East Kalimantan. 
