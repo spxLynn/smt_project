@@ -968,17 +968,23 @@ font-size: 20pt;
 </ul>
 <ol style="list-style-type: decimal">
 <li>Rasterise vector data to create proximity maps for each of the eight criteria</li>
-<li>Rank each of the layer using reclassify by table</li>
-<li>Add all ranks together</li>
-<li>Use Z Score to standardize the data from proximity maps as they have different scales.</li>
-<li>Perform an AHP analysis to determine the relative importance of each characteristic</li>
-<li>Using the weightages from the AHP analysis, multiplying them with the standardized score of respective features using the Raster calculator.</li>
-<li>From the resulting output, we selected an area with composite factor score&gt;0.3</li>
-<li>We cross referenced to the results we get from the ranking, and it gave us the same result.
+</ol>
+<p><strong>Ranking method</strong></p>
+<ol start="2" style="list-style-type: decimal">
+<li><p>Rank each of the layer using reclassify by table</p></li>
+<li><p>Add all ranks together</p></li>
+</ol>
+<p><strong>AHP method</strong></p>
+<ol start="4" style="list-style-type: decimal">
+<li><p>Use Z Score to standardize the data from proximity maps as they have different scales.</p></li>
+<li><p>Perform an AHP analysis to determine the relative importance of each characteristic</p></li>
+<li><p>Using the weightages from the AHP analysis, multiplying them with the standardized score of respective features using the Raster calculator.</p></li>
+<li><p>From the resulting output, we selected an area with composite factor score&gt;0.3</p></li>
+<li><p>We cross referenced to the results we get from the ranking, and it gave us the same result.
 <img src="Image/Site_Selected.jpg" style="width:100.0%" />
 AHP analysis suggest that the chosen area should be near the western region of East Kalimantan.
 <img src="Image/Ranking_area.png" style="width:100.0%" />
-The rank suitability method also suggests the same.</li>
+The rank suitability method also suggests the same.</p></li>
 </ol>
 </div>
 <div id="future-works" class="section level3">
@@ -987,6 +993,11 @@ The rank suitability method also suggests the same.</li>
 <li><p>Take more layers into consideration such as office buildings, education and government when analyzing the area for urbanism.</p></li>
 <li><p>Rasterize using 30x30 to ensure more accurate results</p></li>
 </ul>
+</div>
+<div id="conclusion" class="section level3">
+<h3>Conclusion</h3>
+<p>Area selected: Kutai Kartanegara and parts of Penajam Paser</p>
+<p>While the most ideal location identified is located partly in Kutai Kartanegara and Penajam Paser, the two regencies intersect in the midpoint between the two major cities in East Kalimantan, Balikpapan and Samarinda. With the new site’s proximity to the two cities, it could take advantage of their existing infrastructure despite it being the least important criteria for our AHP analysis. And more importantly, this new site can potentially solve many of Jakarta’s most pressing issues (traffic, pollution, overpopulation, etc).</p>
 <div id="done-by-fathima-harith-oh-lynn-su" class="section level4">
 <h4>Done by: Fathima, Harith Oh, Lynn Su</h4>
 </div>

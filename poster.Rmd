@@ -12,7 +12,6 @@ poster_width: 23.39
 
 primary_colour: "#48C9B0" 
 column_numbers: 3
-column_margins: 5
   
 main_textsize: 120
 
@@ -55,12 +54,23 @@ To analyse the geospatial characteristics of Kota Balikpapan, Kota Samarinda, se
 * Using AHP analysis as a base to determine the land suitability of the study areas to house the new capital city, and ranking suitability to check against it.
 
 1. Rasterise vector data to create proximity maps for each of the eight criteria
+
+**Ranking method**
+
 2. Rank each of the layer using reclassify by table
+
 3. Add all ranks together
+
+**AHP method**
+
 4. Use Z Score to standardize the data from proximity maps as they have different scales.
+
 5. Perform an AHP analysis to determine the relative importance of each characteristic
+
 6. Using the weightages from the AHP analysis, multiplying them with the standardized score of respective features using the Raster calculator.
+
 7. From the resulting output, we selected an area with composite factor score>0.3
+
 8. We cross referenced to the results we get from the ranking, and it gave us the same result.
 ![](Image/Site_Selected.jpg){ width=100% }
 AHP analysis suggest that the chosen area should be near the western region of East Kalimantan. 
@@ -71,6 +81,11 @@ The rank suitability method also suggests the same.
 * Take more layers into consideration such as office buildings, education and government when analyzing the area for urbanism.
 
 * Rasterize using 30x30 to ensure more accurate results
+
+### Conclusion
+Area selected: Kutai Kartanegara and parts of Penajam Paser
+
+While the most ideal location identified is located partly in Kutai Kartanegara and Penajam Paser, the two regencies intersect in the midpoint between the two major cities in East Kalimantan, Balikpapan and Samarinda. With the new site’s proximity to the two cities, it could take advantage of their existing infrastructure despite it being the least important criteria for our AHP analysis. And more importantly, this new site can potentially solve many of Jakarta’s most pressing issues (traffic, pollution, overpopulation, etc).
 
 #### Done by:  Fathima, Harith Oh, Lynn Su
 
